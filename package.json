@@ -1,0 +1,29 @@
+{
+  "name": "midi-translator",
+  "version": "1.0.0",
+  "description": "browser midi code translator",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "build": "webpack"
+  },
+  "keywords": [
+    "midi",
+    "code",
+    "translator"
+  ],
+  "author": "robert.kami88@gamil.com",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.12.10",
+    "@babel/preset-env": "^7.12.11",
+    "babel-loader": "^8.2.2",
+    "jest": "^26.6.3",
+    "jest-standard-reporter": "^2.0.0",
+    "webpack": "^5.17.0",
+    "webpack-cli": "^4.4.0",
+    "jest-html-reporter": "^3.3.0"
+  },
+  "dependencies": {
+  }
+}
