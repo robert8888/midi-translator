@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "description": "browser midi code translator",
   "main": "index.js",
+  "homepage": "https://github.com/robert8888/midi-translator",
+  "repository": "https://github.com/robert8888/midi-translator",
   "scripts": {
     "test": "jest",
     "build": "webpack"
